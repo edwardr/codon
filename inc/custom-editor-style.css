@@ -1,0 +1,7 @@
+body#tinymce.wp-editor { 
+    font-family: Open Sans; 
+    margin:10px; 
+}
+body#tinymce.wp-editor a {
+    color: #2ba6cb;
+}

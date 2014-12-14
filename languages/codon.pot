@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Codon v1.0\n"
+"POT-Creation-Date: 2014-12-10 12:05-0500\n"
+"PO-Revision-Date: 2014-12-10 12:06-0500\n"
+"Last-Translator: \n"
+"Language-Team: Edward R. Jenkins <edward@edwardrjenkins.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/edward/Desktop/codon\n"
+
+#: /home/edward/Desktop/codon/content-page.php:44
+#: /home/edward/Desktop/codon/content-single.php:39
+#: /home/edward/Desktop/codon/image.php:58
+msgid "Pages:"
+msgstr ""
+
+#: /home/edward/Desktop/codon/content-page.php:51
+#: /home/edward/Desktop/codon/image.php:32
+#: /home/edward/Desktop/codon/image.php:64
+#: /home/edward/Desktop/codon/inc/template-tags.php:423
+#: /home/edward/Desktop/codon/inc/extras.php:123
+msgid "Edit"
+msgstr ""
+
+#: /home/edward/Desktop/codon/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: /home/edward/Desktop/codon/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: /home/edward/Desktop/codon/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: /home/edward/Desktop/codon/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: /home/edward/Desktop/codon/header.php:104
+msgid "Skip to content"
+msgstr ""
+
+#: /home/edward/Desktop/codon/header.php:109
+msgid "Main Menu"
+msgstr ""
+
+#: /home/edward/Desktop/codon/search.php:16
+msgid "Search Results for: "
+msgstr ""
+
+#: /home/edward/Desktop/codon/search.php:25
+msgid "No results found for: "
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:45
+msgid "Top Menu"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:47
+#: /home/edward/Desktop/codon/inc/customizer.php:448
+msgid "Footer Menu"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:95
+msgid "Header Widget"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:97
+msgid ""
+"Widgets in this area will be shown on the right side of the header "
+"(Traditional header-style only)."
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:105
+msgid "Page Sidebar"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:107
+msgid "Widgets in this area will be shown on pages."
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:116
+msgid "Post Sidebar"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:118
+msgid "Widgets in this area will be shown on posts and archives."
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:128
+#: /home/edward/Desktop/codon/inc/customizer.php:335
+msgid "Archive Sidebar"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:130
+msgid "Widgets in this area will be shown on archive pages."
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:138
+msgid "Home Sidebar"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:140
+msgid "Widgets in this area will be shown on the homepage."
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:147
+msgid "Below Posts"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:149
+msgid ""
+"Widgets in this area will be shown beneath the blog post type. Use this for "
+"sharing, related articles and more."
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:159
+msgid "Footer Widget 1"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:161
+msgid "Widgets in this area will show up in the leftmost footer column."
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:168
+msgid "Footer Widget 2"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:170
+msgid "Widgets in this area will show up in the middle footer column."
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:177
+msgid "Footer Widget 3"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:179
+msgid "Widgets in this area will show up in the right footer column."
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:247
+msgid "To view this protected post, enter the password below."
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:269
+msgid "Extras"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:281
+msgid "Subtitle"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:288
+msgid "Featured Video Embed Code"
+msgstr ""
+
+#: /home/edward/Desktop/codon/functions.php:503
+msgid ""
+"Please visit the <a href=\"customize.php\">Customizer</a> to set up your "
+"site."
+msgstr ""
+
+#: /home/edward/Desktop/codon/image.php:22
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: /home/edward/Desktop/codon/image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: /home/edward/Desktop/codon/image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /home/edward/Desktop/codon/comments.php:32
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /home/edward/Desktop/codon/comments.php:33
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /home/edward/Desktop/codon/sidebar-home.php:14
+#: /home/edward/Desktop/codon/sidebar-posts.php:14
+#: /home/edward/Desktop/codon/sidebar.php:14
+msgid "Archives"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:24
+msgid "Post navigation"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:46
+msgid "Author: "
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:303
+msgid "Daily Archives: "
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:308
+msgid "Monthly Archives: "
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:313
+msgid "Yearly Archives: "
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:318
+msgid "<i class=\"fa fa-asterisk\"></i> Asides"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:321
+msgid "<i class=\"fa fa-picture-o\"></i> Galleries"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:324
+msgid "<i class=\"fa fa-picture-o\"></i> Images"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:327
+msgid "<i class=\"fa fa-video-camera\"></i> Videos"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:330
+msgid "<i class=\"fa fa-quote-left\"></i> Quotes"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:333
+msgid "<i class=\"fa fa-link\"></i> Links"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:336
+msgid "<i class=\"fa fa-tasks\"></i> Statuses"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:339
+msgid "<i class=\"fa fa-headphones\"></i> Audios"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:342
+msgid "<i class=\"fa fa-comments-o\"></i> Chats"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:345
+msgid "<i class=\"fa fa-folder-open\"></i> Archives"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:355
+#: /home/edward/Desktop/codon/inc/template-tags.php:365
+#: /home/edward/Desktop/codon/inc/template-tags.php:384
+msgid "Home"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:413
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:419
+msgid "Leave a comment"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:419
+msgid "1 Comment"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:419
+msgid "% Comments"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:519
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/template-tags.php:520
+msgid ""
+"Whoops. The page you were looking for has gone extinct. Maybe you can find "
+"what you were looking for below."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/extras.php:100
+msgid "(Edit)"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/extras.php:112
+msgid "Post author"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/extras.php:115
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/extras.php:126
+msgid "Reply"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/index-nav.php:11
+msgid "Load More"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/index-nav.php:14
+msgid "Posts navigation"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:20
+msgid "Header Options"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:22
+msgid "Select your header options."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:27
+msgid "Display Options"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:29
+msgid "Select your display options."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:34
+msgid "Single Content"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:36
+msgid "Select options for single-content templates."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:41
+msgid "Archive Content"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:43
+msgid "Select options for archive-content templates."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:48
+msgid "Footer Options"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:50
+msgid "Select options for the footer."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:65
+msgid "Header Style"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:66
+msgid ""
+"After saving the header style, refresh the customizer page to see the header-"
+"specific logo option."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:80
+msgid "Site Description"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:81
+msgid "Enable or disable the header site description."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:100
+msgid "Header Logo"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:109
+msgid "Header Search Bar"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:122
+msgid "Header Widget Area"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:141
+msgid "Topbar Logo"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:142
+msgid "<em>Max height: 45px</em>"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:159
+msgid "Infinite Scroll"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:175
+msgid "Post Default Image"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:176
+msgid "Used if a featured image is not present"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:210
+#: /home/edward/Desktop/codon/inc/customizer.php:383
+msgid "Post Meta"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:224
+msgid "Post Navigation"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:238
+msgid "Authorbox"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:252
+msgid "Post Breadcrumbs"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:266
+msgid "Page Breadcrumbs"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:280
+msgid "Post Extras"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:281
+msgid "Enable or disable the post extras box (subtitle and featured video)."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:295
+msgid "Post Style"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:296
+msgid "Choose whether or not to display the sidebar on single posts."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:319
+msgid "Post Display"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:320
+msgid ""
+"If using the three-column layout, make sure your post per page value in "
+"Settings->Reading is divisible by 3 for best results."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:336
+msgid "Turn the sidebar on or off."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:350
+msgid "Post Thumbnails"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:351
+msgid "Choose your archive thumbnail size."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:367
+msgid "Post Thumbnail Alignment"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:368
+msgid "Choose your archive thumbnail alignment."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:397
+msgid "Post Excerpts"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:398
+msgid "Showing the full content works best with the blog-style archive layout."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:432
+msgid "Footer Widgets"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:433
+msgid "Enable or disable the footer widget areas."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:463
+msgid "Footer Credit Link"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:478
+msgid "Return to Top Link"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:493
+msgid "Social Block"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:494
+msgid ""
+"Once enabled, please refresh the customizer to enable the social link fields."
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:512
+msgid "Facebook URL"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:523
+msgid "Google+ URL"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:534
+msgid "Twitter URL"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:545
+msgid "Pinterest URL"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:557
+msgid "YouTube URL"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:569
+msgid "Instagram URL"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:581
+msgid "Yelp URL"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:593
+msgid "Tumblr URL"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:605
+msgid "Reddit URL"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:617
+msgid "Github URL"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:629
+msgid "Skype URL"
+msgstr ""
+
+#: /home/edward/Desktop/codon/inc/customizer.php:641
+msgid "RSS URL"
+msgstr ""

@@ -1,0 +1,542 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Codon\n"
+"Language: nl\n"
+
+#: /codon/content-page.php:44
+#: /codon/content-single.php:39
+#: /codon/image.php:58
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: /codon/content-page.php:51
+#: /codon/image.php:32
+#: /codon/image.php:64
+#: /codon/inc/template-tags.php:423
+#: /codon/inc/extras.php:123
+msgid "Edit"
+msgstr "Uitgeven"
+
+#: /codon/content-none.php:13
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: /codon/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a hier </a> href=\"%1$s\"> slag."
+
+#: /codon/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, maar niets voldoen aan je zoekopdracht. Probeer het opnieuw met een aantal verschillende zoekwoorden."
+
+#: /codon/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we kunnen rsquo van &; t vinden wat u & rsquo; re op zoek naar. Misschien zoeken kan helpen."
+
+#: /codon/header.php:98
+msgid "Skip to content"
+msgstr "Doorgaan naar inhoud"
+
+#: /codon/header.php:103
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+#: /codon/search.php:16
+msgid "Search Results for: "
+msgstr "Zoekresultaten voor:"
+
+#: /codon/search.php:25
+msgid "No results found for: "
+msgstr "Geen resultaten gevonden voor:"
+
+#: /codon/searchform.php:14
+msgid "Search"
+msgstr "Zoeken"
+
+#: /codon/functions.php:45
+msgid "Top Menu"
+msgstr "Top Menu"
+
+#: /codon/functions.php:47
+#: /codon/inc/customizer.php:449
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: /codon/functions.php:95
+msgid "Header Widget"
+msgstr "Header Widget"
+
+#: /codon/functions.php:97
+msgid "Widgets in this area will be shown on the right side of the header (Traditional header-style only)."
+msgstr "Widgets op dit gebied zal worden getoond aan de rechterzijde van de header (traditioneel alleen header-stijl)."
+
+#: /codon/functions.php:105
+msgid "Page Sidebar"
+msgstr "Pagina Sidebar"
+
+#: /codon/functions.php:107
+msgid "Widgets in this area will be shown on pages."
+msgstr "Widgets op dit gebied zal worden getoond op de pagina's."
+
+#: /codon/functions.php:116
+msgid "Post Sidebar"
+msgstr "Bericht Sidebar"
+
+#: /codon/functions.php:118
+msgid "Widgets in this area will be shown on posts and archives."
+msgstr "Widgets op dit gebied zal worden getoond op posten en archieven."
+
+#: /codon/functions.php:128
+#: /codon/inc/customizer.php:321
+msgid "Archive Sidebar"
+msgstr "Archief Sidebar"
+
+#: /codon/functions.php:130
+msgid "Widgets in this area will be shown on archive pages."
+msgstr "Widgets op dit gebied zal worden getoond op de archiefpagina's."
+
+#: /codon/functions.php:138
+msgid "Home Sidebar"
+msgstr "Thuis Sidebar"
+
+#: /codon/functions.php:140
+msgid "Widgets in this area will be shown on the homepage."
+msgstr "Widgets op dit gebied zal worden getoond op de homepage."
+
+#: /codon/functions.php:147
+msgid "Below Posts"
+msgstr "Hieronder Berichten"
+
+#: /codon/functions.php:149
+msgid "Widgets in this area will be shown beneath the blog post type. Use this for sharing, related articles and more."
+msgstr "Widgets op dit gebied zal worden getoond onder de blogpost type. Gebruik dit voor het delen, gerelateerde artikelen en nog veel meer."
+
+#: /codon/functions.php:159
+msgid "Footer Widget 1"
+msgstr "Footer Widget 1"
+
+#: /codon/functions.php:161
+msgid "Widgets in this area will show up in the leftmost footer column."
+msgstr "Widgets op dit gebied zal verschijnen in de kolom uiterst links voettekst."
+
+#: /codon/functions.php:168
+msgid "Footer Widget 2"
+msgstr "Footer Widget 2"
+
+#: /codon/functions.php:170
+msgid "Widgets in this area will show up in the middle footer column."
+msgstr "Widgets op dit gebied zal verschijnen in de kolom midden voettekst."
+
+#: /codon/functions.php:177
+msgid "Footer Widget 3"
+msgstr "Footer Widget 3"
+
+#: /codon/functions.php:179
+msgid "Widgets in this area will show up in the right footer column."
+msgstr "Widgets op dit gebied zal verschijnen in de rechterkolom voettekst."
+
+#: /codon/functions.php:247
+msgid "To view this protected post, enter the password below."
+msgstr "Om dit beschermde bericht te zien, voert u het wachtwoord hieronder."
+
+#: /codon/functions.php:267
+msgid "Extras"
+msgstr "Extra's"
+
+#: /codon/functions.php:279
+msgid "Subtitle"
+msgstr "Subtitel"
+
+#: /codon/functions.php:286
+msgid "Featured Video Embed Code"
+msgstr "Aanbevolen video embed code"
+
+#: /codon/image.php:22
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Gepubliceerd <span class = \"entry-date\"> <tijd class = \"entry-date\" datetime = \"% 1 $ s\">% 2 $ s </ tijd> </ span> op <a href = \"% 3 $ s \">% 4 $ s & tijden; % 5 $ s </a> in <a href=\"%6$s\" rel=\"gallery\">% 7 $ s </a>"
+
+#: /codon/image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<Span class = \"meta-nav\"> & Larr; </ span> Vorige"
+
+#: /codon/image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Volgende <span class = \"meta-nav\"> & rarr; </ span>"
+
+#: /codon/comments.php:32
+msgid "&larr; Older Comments"
+msgstr "& Larr; Oudere Reacties"
+
+#: /codon/comments.php:33
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwer Reacties & rarr;"
+
+#: /codon/sidebar-home.php:14
+#: /codon/sidebar-posts.php:14
+#: /codon/sidebar.php:14
+msgid "Archives"
+msgstr "Archief"
+
+#: /codon/inc/template-tags.php:24
+msgid "Post navigation"
+msgstr "Bericht navigatie"
+
+#: /codon/inc/template-tags.php:46
+msgid "Author: "
+msgstr "Auteur:"
+
+#: /codon/inc/template-tags.php:303
+msgid "Daily Archives: "
+msgstr "Dagelijks Archief:"
+
+#: /codon/inc/template-tags.php:308
+msgid "Monthly Archives: "
+msgstr "Maandelijks Archief:"
+
+#: /codon/inc/template-tags.php:313
+msgid "Yearly Archives: "
+msgstr "Jaarlijkse Archives:"
+
+#: /codon/inc/template-tags.php:318
+msgid "<i class=\"fa fa-asterisk\"></i> Asides"
+msgstr "<I class = \"fa fa-sterretje\"> </ i> Asides"
+
+#: /codon/inc/template-tags.php:321
+msgid "<i class=\"fa fa-picture-o\"></i> Galleries"
+msgstr "<I class = \"fa fa-picture-o\"> </ i> Galleries"
+
+#: /codon/inc/template-tags.php:324
+msgid "<i class=\"fa fa-picture-o\"></i> Images"
+msgstr "<I class = \"fa fa-picture-o\"> </ i> Afbeeldingen"
+
+#: /codon/inc/template-tags.php:327
+msgid "<i class=\"fa fa-video-camera\"></i> Videos"
+msgstr "<I class = \"fa fa-video-camera\"> </ i> Video's"
+
+#: /codon/inc/template-tags.php:330
+msgid "<i class=\"fa fa-quote-left\"></i> Quotes"
+msgstr "<I class = \"fa fa-quote-left\"> </ i> Quotes"
+
+#: /codon/inc/template-tags.php:333
+msgid "<i class=\"fa fa-link\"></i> Links"
+msgstr "<I class = \"fa fa-link\"> </ i> Links"
+
+#: /codon/inc/template-tags.php:336
+msgid "<i class=\"fa fa-tasks\"></i> Statuses"
+msgstr "<I class = \"fa fa-taken\"> </ i> Statussen"
+
+#: /codon/inc/template-tags.php:339
+msgid "<i class=\"fa fa-headphones\"></i> Audios"
+msgstr "<I class = \"fa fa-hoofdtelefoon\"> </ i> Audio"
+
+#: /codon/inc/template-tags.php:342
+msgid "<i class=\"fa fa-comments-o\"></i> Chats"
+msgstr "<I class = \"fa fa-opmerkingen-o\"> </ i> Chats"
+
+#: /codon/inc/template-tags.php:345
+msgid "<i class=\"fa fa-folder-open\"></i> Archives"
+msgstr "<I class = \"fa fa-map openen\"> </ i> Archieven"
+
+#: /codon/inc/template-tags.php:355
+#: /codon/inc/template-tags.php:365
+#: /codon/inc/template-tags.php:384
+msgid "Home"
+msgstr "Huis"
+
+#: /codon/inc/template-tags.php:413
+msgid "%1$s"
+msgstr "% 1 $ s"
+
+#: /codon/inc/template-tags.php:419
+msgid "Leave a comment"
+msgstr "Laat een reactie achter"
+
+#: /codon/inc/template-tags.php:419
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: /codon/inc/template-tags.php:419
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: /codon/inc/template-tags.php:519
+msgid "404 - Page Not Found"
+msgstr "404 - Pagina niet gevonden"
+
+#: /codon/inc/template-tags.php:520
+msgid "Whoops. The page you were looking for has gone extinct. Maybe you can find what you were looking for below."
+msgstr "Whoops. De pagina die u zocht is uitgestorven gegaan. Misschien kun je vinden wat je zocht hieronder."
+
+#: /codon/inc/extras.php:63
+msgid "Page %s"
+msgstr "Pagina% s"
+
+#: /codon/inc/extras.php:100
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: /codon/inc/extras.php:112
+msgid "Post author"
+msgstr "Bericht Auteur"
+
+#: /codon/inc/extras.php:115
+msgid "%1$s at %2$s"
+msgstr "% 1 $ s op% 2 $ s"
+
+#: /codon/inc/extras.php:126
+msgid "Reply"
+msgstr "Antwoorden"
+
+#: /codon/inc/extras.php:174
+msgid "Custom Styles"
+msgstr "Custom Stijlen"
+
+#: /codon/inc/extras.php:177
+msgid "Theme Button"
+msgstr "Thema Button"
+
+#: /codon/inc/extras.php:182
+msgid "Highlight"
+msgstr "Hoogtepunt"
+
+#: /codon/inc/index-nav.php:11
+msgid "Load More"
+msgstr "Laad Meer"
+
+#: /codon/inc/index-nav.php:14
+msgid "Posts navigation"
+msgstr "Berichten navigatie"
+
+#: /codon/inc/customizer.php:20
+msgid "Header Options"
+msgstr "Header Opties"
+
+#: /codon/inc/customizer.php:22
+msgid "Select your header options."
+msgstr "Selecteer uw header opties."
+
+#: /codon/inc/customizer.php:27
+msgid "Display Options"
+msgstr "Weergave-opties"
+
+#: /codon/inc/customizer.php:29
+msgid "Select your display options."
+msgstr "Selecteer uw weergave-opties."
+
+#: /codon/inc/customizer.php:34
+msgid "Single Content"
+msgstr "Single Content"
+
+#: /codon/inc/customizer.php:36
+msgid "Select options for single-content templates."
+msgstr "Selecteer opties voor single-inhoud templates."
+
+#: /codon/inc/customizer.php:41
+msgid "Archive Content"
+msgstr "Archief Inhoud"
+
+#: /codon/inc/customizer.php:43
+msgid "Select options for archive-content templates."
+msgstr "Selecteer opties voor archief-inhoud templates."
+
+#: /codon/inc/customizer.php:48
+msgid "Footer Options"
+msgstr "Footer Opties"
+
+#: /codon/inc/customizer.php:50
+msgid "Select options for the footer."
+msgstr "Selecteer opties voor de voettekst."
+
+#: /codon/inc/customizer.php:64
+msgid "Header Style"
+msgstr "Header Stijl"
+
+#: /codon/inc/customizer.php:65
+msgid "After saving the header style, refresh the customizer page to see the header-specific logo option."
+msgstr "Na het opslaan van de header-stijl, vernieuw de customizer pagina om het logo optie header-specifieke zien."
+
+#: /codon/inc/customizer.php:79
+msgid "Site Description"
+msgstr "Site Beschrijving"
+
+#: /codon/inc/customizer.php:80
+msgid "Enable or disable the header site description."
+msgstr "Inschakelen of de header sitebeschrijving uitschakelen."
+
+#: /codon/inc/customizer.php:98
+msgid "Header Logo"
+msgstr "Header Logo"
+
+#: /codon/inc/customizer.php:108
+msgid "Header Widget Area"
+msgstr "Header Widget"
+
+#: /codon/inc/customizer.php:127
+msgid "Topbar Logo"
+msgstr "Topbar Logo"
+
+#: /codon/inc/customizer.php:128
+msgid "<em>Max height: 45px</em>"
+msgstr "<Em> Max hoogte: 45px </ em>"
+
+#: /codon/inc/customizer.php:145
+msgid "Infinite Scroll"
+msgstr "Oneindige Scroll"
+
+#: /codon/inc/customizer.php:161
+msgid "Post Default Image"
+msgstr "Bericht Standaard Afbeelding"
+
+#: /codon/inc/customizer.php:162
+msgid "Used if a featured image is not present"
+msgstr "Gebruikt als een afbeelding, is niet aanwezig"
+
+#: /codon/inc/customizer.php:196
+#: /codon/inc/customizer.php:369
+msgid "Post Meta"
+msgstr "Bericht Meta"
+
+#: /codon/inc/customizer.php:210
+msgid "Post Navigation"
+msgstr "Bericht Navigatie"
+
+#: /codon/inc/customizer.php:224
+msgid "Authorbox"
+msgstr "Authorbox"
+
+#: /codon/inc/customizer.php:238
+msgid "Post Breadcrumbs"
+msgstr "Bericht Breadcrumbs"
+
+#: /codon/inc/customizer.php:252
+msgid "Page Breadcrumbs"
+msgstr "Pagina Breadcrumbs"
+
+#: /codon/inc/customizer.php:266
+msgid "Post Extras"
+msgstr "Bericht Extras"
+
+#: /codon/inc/customizer.php:267
+msgid "Enable or disable the post extras box (subtitle and featured video)."
+msgstr "In- of uitschakelen van de doos na de extra's (ondertiteling en aanbevolen video)."
+
+#: /codon/inc/customizer.php:281
+msgid "Post Style"
+msgstr "Bericht Style"
+
+#: /codon/inc/customizer.php:282
+msgid "Choose whether or not to display the sidebar on single posts."
+msgstr "Geef aan of de tabel op enkele berichten weer te geven."
+
+#: /codon/inc/customizer.php:305
+msgid "Post Display"
+msgstr "Bericht Weergave"
+
+#: /codon/inc/customizer.php:306
+msgid "If using the three-column layout, make sure your post per page value in Settings->Reading is divisible by 3 for best results."
+msgstr "Bij gebruik van de drie-koloms layout, zorg ervoor dat je post per pagina waarde in Instellingen-> Lezen is deelbaar door 3 voor de beste resultaten."
+
+#: /codon/inc/customizer.php:322
+msgid "Turn the sidebar on or off."
+msgstr "Draai de zijbalk aan of uit."
+
+#: /codon/inc/customizer.php:336
+msgid "Post Thumbnails"
+msgstr "Bericht Miniaturen"
+
+#: /codon/inc/customizer.php:337
+msgid "Choose your archive thumbnail size."
+msgstr "Kies uw archief miniatuurformaat."
+
+#: /codon/inc/customizer.php:353
+msgid "Post Thumbnail Alignment"
+msgstr "Bericht Miniatuur Alignment"
+
+#: /codon/inc/customizer.php:354
+msgid "Choose your archive thumbnail alignment."
+msgstr "Kies uw archief verkleinde uitlijning."
+
+#: /codon/inc/customizer.php:383
+msgid "Post Excerpts"
+msgstr "Bericht Fragmenten"
+
+#: /codon/inc/customizer.php:384
+msgid "Showing the full content works best with the blog-style archive layout."
+msgstr "Het tonen van de volledige inhoud werkt het beste met de blog-stijl archief lay-out."
+
+#: /codon/inc/customizer.php:418
+msgid "Footer Widgets"
+msgstr "Voettekst Widgets"
+
+#: /codon/inc/customizer.php:419
+msgid "Enable or disable the footer widget areas."
+msgstr "In- of uitschakelen van de voettekst widget gebieden."
+
+#: /codon/inc/customizer.php:434
+msgid "Footer Credit Link"
+msgstr "Footer Credit Link"
+
+#: /codon/inc/customizer.php:464
+msgid "Return to Top Link"
+msgstr "Terug naar boven Link"
+
+#: /codon/inc/customizer.php:479
+msgid "Social Block"
+msgstr "Sociale Block"
+
+#: /codon/inc/customizer.php:480
+msgid "Once enabled, please refresh the customizer to enable the social link fields."
+msgstr "Eenmaal ingeschakeld, Vernieuw de customizer om de sociale band gebieden mogelijk is."
+
+#: /codon/inc/customizer.php:498
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: /codon/inc/customizer.php:509
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: /codon/inc/customizer.php:520
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: /codon/inc/customizer.php:531
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: /codon/inc/customizer.php:543
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: /codon/inc/customizer.php:555
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: /codon/inc/customizer.php:567
+msgid "Yelp URL"
+msgstr "Yelp URL"
+
+#: /codon/inc/customizer.php:579
+msgid "Tumblr URL"
+msgstr "Tumblr URL"
+
+#: /codon/inc/customizer.php:591
+msgid "Reddit URL"
+msgstr "Reddit URL"
+
+#: /codon/inc/customizer.php:603
+msgid "Github URL"
+msgstr "GitHub URL"
+
+#: /codon/inc/customizer.php:615
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: /codon/inc/customizer.php:627
+msgid "RSS URL"
+msgstr "RSS-URL"
+

@@ -1,0 +1,8 @@
+==Codon Changelog==
+===================
+=Dec-13-2014 - 1.0.4=
+-added actions and filters for better customization
+-updated to FontAwesome 4.2
+
+=Dec-10-2014 - 1.0.3=
+-Initial release.

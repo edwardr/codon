@@ -1,0 +1,944 @@
+/*
+Theme Name: Codon
+Theme URI: https://www.edwardrjenkins.com/themes/codon
+Author: Edward R. Jenkins
+Author URI: https://www.edwardrjenkins.com/
+Description: A responsive, flexible framework built on Underscores and Foundation 5. Features a full customizer experience, with options for column posts, multiple headers, and much more. Use a child theme for advanced customization, or fork Codon for a custom project.
+Version: 1.0.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: codon
+Tags: two-columns, one-column, two-columns, three-columns, right-sidebar, theme-options, rtl-language-support, responsive-layout, custom-background, featured-images, post-formats, full-width-template, sticky-post, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Codon is based on Underscores http://underscores.me/, (C) 2012-2014 Automattic, Inc.
+
+/*--------------------------------------------------------------
+WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+	margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+	display: block;
+	margin: 5px auto 5px auto;
+}
+
+.alignright {
+	float:right;
+	margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+	float: left;
+	margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+	float: right;
+	margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+	margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+	float: left;
+	margin: 5px 20px 10px 0;
+}
+
+a img.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+
+.wp-caption {
+	background: #fff;
+	border: 1px solid #f0f0f0;
+	max-width: 96%; /* Image does not overflow the content area */
+	padding: 5px 3px 10px;
+	text-align: center;
+}
+
+.wp-caption.alignnone {
+	margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+	margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+	margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+	border: 0 none;
+	height: auto;
+	margin: 0;
+	max-width: 98.5%;
+	padding: 0;
+	width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 17px;
+	margin: 0;
+	padding: 0 4px 5px;
+}
+
+/*--------------------------------------------------------------
+ Menus
+--------------------------------------------------------------*/
+
+.main-navigation-wrap {
+	background: #333;
+	padding: 5px 0px;
+}
+
+.main-navigation {
+	clear: both;
+	display: block;
+	float: left;
+	width: 100%;
+	font-weight: 600;
+}
+
+.main-navigation ul {
+	list-style: none;
+	margin: 0;
+	padding-left: 0;
+}
+
+.main-navigation li {
+	float: left;
+	position: relative;
+	margin: 10px;
+	font-size: 1rem;
+	font-family: 'Open Sans', Tahoma, Arial;
+}
+
+.sub-menu li {
+	font-size: 0.85rem;
+}
+
+.nav-menu li:first-child {
+	margin-left: 0px;
+}
+
+.sub-menu li:first-child {
+	margin-left: 10px;
+}
+
+.main-navigation a {
+	display: block;
+	text-decoration: none;
+	color: #fff;
+}
+
+.main-navigation ul ul {
+	float: left;
+	position: absolute;
+	top: 1.5rem;
+	left: -999em;
+	z-index: 99999;
+	background: #333;
+}
+
+.main-navigation ul ul ul {
+	left: -999em;
+	top: 0;
+}
+
+li.current_page_item {
+	border-bottom: 1px solid #fff;
+}
+
+.main-navigation ul ul a {
+	width: 230px;
+	text-transform: none;
+	font-size: 0.8rem;
+}
+
+.main-navigation ul ul li {
+
+}
+
+.main-navigation li:hover > a {
+}
+
+.main-navigation ul ul :hover > a {
+}
+
+.main-navigation ul ul a:hover {
+}
+
+.main-navigation ul li:hover > ul {
+	left: auto;
+}
+
+.main-navigation ul ul li:hover > ul {
+	left: 100%;
+}
+
+.main-navigation .current_page_item > a,
+.main-navigation .current-menu-item > a,
+.main-navigation .current_page_ancestor > a {
+}
+
+/* Small menu */
+.menu-toggle {
+	display: none;
+	margin: 10px auto;
+}
+
+.site-main .comment-navigation,
+.site-main .paging-navigation,
+.site-main .post-navigation {
+	margin: 0 0 1.5em;
+	overflow: hidden;
+}
+
+.comment-navigation .nav-previous,
+.paging-navigation .nav-previous,
+.post-navigation .nav-previous {
+	float: right;
+	width: 50%;
+}
+
+.comment-navigation .nav-next,
+.paging-navigation .nav-next,
+.post-navigation .nav-next {
+	float: left;
+	text-align: right;
+	width: 50%;
+}
+
+/*--------------------------------------------------------------
+Accessibility
+--------------------------------------------------------------*/
+/* Text meant only for screen readers */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar */
+}
+
+.assistive-text {
+		display: none!important;
+}
+
+/*--------------------------------------------------------------
+Sidebars
+--------------------------------------------------------------*/
+.widget {
+	margin: 0 0 1.5em;
+}
+
+/* Make sure select elements fit in widgets */
+.widget select {
+	max-width: 100%;
+}
+
+/* Search widget */
+.widget_search .search-submit {
+	display: none;
+}
+
+#wp-calendar {
+	/* fix for table overlapping column */
+	table-layout: fixed;
+	width: 100%;
+}
+
+/*--------------------------------------------------------------
+Content
+--------------------------------------------------------------*/
+.main-content-area {
+}
+
+.hentry {
+	margin: 0 0 1.5em;
+}
+
+.page-content,
+.entry-content,
+.entry-summary {
+	margin: 10px 3px;
+}
+
+.page-links {
+	clear: both;
+	margin: 0 0 1.5em;
+}
+
+.single-meta {
+	font-size: 1rem;
+	margin: 20px 0px;
+}
+
+span.post-info {
+	color: #111;
+	margin: 10px 3px;
+	text-transform: capitalize;
+}
+
+.post-edit-link {
+	font-size: 0.9rem;
+	display: block;
+	clear: both;
+	margin: 20px 0px;
+}
+
+.codon-breadcrumbs {
+	margin: 5px 3px 20px 0px;
+	text-transform: capitalize;
+}
+
+.article-title {
+	margin: 20px 0px;
+	line-height: 1.1;
+	word-wrap: break-word;
+}
+
+.page-title {
+	margin: 20px 0px;
+	word-wrap: break-word;
+}
+
+.article-subtitle {
+	font-size: 1.5em;
+	font-weight: normal;
+	color: #333;
+	margin: 0px 0px 20px 5px;
+	word-wrap: break-word;
+}
+
+#page-list-icon {
+	font-size: 2rem;
+}
+
+.archive-header {
+	margin-bottom: 30px;
+}
+
+.sticky h4.column-post-title a {
+
+}
+
+.sticky h4.column-post-title a:before { 
+	content: '\f006';
+}
+
+.post-password-required h4.column-post-title a:before { 
+	content: '\f023';
+}
+
+.post-password-required h1.article-title:before { 
+	content: '\f023';
+}
+
+/* font icons */
+.post-info i {
+	color: #333;
+	margin: 0 3px 0 3px;
+	}
+
+.archive-header i {
+	color: #333;
+}
+
+/*--------------------------------------------------------------
+Post Formats
+--------------------------------------------------------------*/
+.blog .format-aside .entry-title,
+.archive .format-aside .entry-title {
+	display: none;
+}
+.format-status .article-title {
+	display:none;
+}
+.format-link  {
+}
+.format-chat {
+}
+.format-audio {
+}
+.format-aside {
+}
+.format-gallery {
+}
+.format-image {
+}
+.format-video {
+}
+
+/*--------------------------------------------------------------
+Comments
+--------------------------------------------------------------*/
+.comment-content a {
+	word-wrap: break-word;
+}
+
+.bypostauthor {
+	display: block;
+}
+
+.comment {
+	border: none;
+	padding: 10px 0px;
+}
+.comments-title {
+	font-size: 1.2em;
+	line-height: 1.5;
+}
+.comments-content {
+	margin: 10px;
+}
+ul.commentlist {
+	list-style-type: none;
+}
+.comments-area article {
+}
+.comments-area article header {
+	overflow: hidden;
+	position: relative;
+}
+.comments-area article header img {
+	float: left;
+	padding: 0;
+	line-height: 0;
+	margin-right: 10px;
+}
+.comments-area article header cite,
+.comments-area article header time {
+	display: block;
+}
+.comments-area article header cite {
+	font-style: normal;
+	font-size: 1.1em;
+	line-height: 1.42857143;
+}
+.comments-area article header time {
+	line-height: 1.714285714;
+	text-decoration: none;
+	font-size: 0.8em;
+	color: #5e5e5e;
+}
+.comments-area article header a {
+	text-decoration: none;
+	color: #5e5e5e;
+}
+.comments-area article header a:hover {
+	color: #21759b;
+}
+.comments-area article header cite a {
+	color: #444;
+}
+.comments-area article header cite a:hover {
+	text-decoration: underline;
+}
+.comments-area article header h4 {
+	position: absolute;
+}
+.comments-area li.bypostauthor cite span {
+	display: block;
+	font-size: 0.7em;
+}
+a.comment-reply-link,
+a.comment-edit-link {
+	color: #686868;
+	font-size: 0.8em;
+	line-height: 1.846153846;
+}
+a.comment-reply-link:hover,
+a.comment-edit-link:hover {
+	color: #21759b;
+}
+.commentlist .pingback {
+	line-height: 1.714285714;
+	margin-bottom: 20px;
+}
+
+#respond {
+	margin-top: 20px;
+}
+#respond h3#reply-title {
+	font-size: 1.2em;
+	line-height: 1.5;
+}
+#respond h3#reply-title #cancel-comment-reply-link {
+	margin-left: 10px;
+	margin-left: 0.714285714rem;
+	font-size: 12px;
+	font-size: 0.857142857rem;
+}
+#respond form {
+	margin: 24px 0;
+	margin: 1.714285714rem 0;
+}
+#respond form p {
+	margin: 11px 0;
+	margin: 0.785714286rem 0;
+}
+#respond form p.logged-in-as {
+	margin-bottom: 24px;
+	margin-bottom: 1.714285714rem;
+}
+#respond form label {
+	display: block;
+	line-height: 1.714285714;
+}
+#respond form input[type="text"],
+#respond form textarea {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	line-height: 1.714285714;
+	padding: 10px;
+	padding: 0.714285714rem;
+	width: 100%;
+}
+#respond form p.form-allowed-tags {
+	margin: 0;
+	font-size: 0.8em;
+	line-height: 2;
+	color: #5e5e5e;
+}
+.required {
+	color: red;
+}
+
+.comment-list {
+	margin-left: 10px;
+}
+
+.entry-content {
+	margin: 10px 0px;
+	word-wrap: break-word;
+}
+
+/*--------------------------------------------------------------
+Galleries
+--------------------------------------------------------------*/
+
+.gallery figure { 
+	padding: 0px;
+	margin: 10px 0px; 
+}
+
+.gallery {
+	margin-bottom: 1.5em;
+	text-align: center;
+}
+
+.gallery-item {
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+	max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+	max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+	max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+	max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+	max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+	max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+	max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+	max-width: 11.11%;
+}
+
+.gallery-caption {
+	display: block;
+}
+
+/*--------------------------------------------------------------
+Basic Styles
+--------------------------------------------------------------*/
+.container {
+	padding: 20px 0px;
+}
+
+#infinite-scroll {
+	margin-bottom: 20px;
+	text-align: center;
+	clear: both;
+	}
+
+#infscr-loading {
+	text-align: center;
+	margin-bottom: 10px;
+	font-size: 3rem;
+	}
+
+#author-box {
+	margin: 20px 0px;
+}
+
+/*--------------------------------------------------------------
+Typography
+--------------------------------------------------------------*/
+a {
+	transition: 0.75s;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Open Sans', Tahoma, Arial;
+	font-weight: 600;
+}
+
+body {
+	font-family: 'Open Sans'!important;/*"Open Sans", Arial, Tahoma;*/
+	-webkit-font-smoothing: antialiased;
+}
+
+/*--------------------------------------------------------------
+Header
+--------------------------------------------------------------*/
+
+#site-title {
+	margin: 0px 0px 10px 0px;
+	width: auto;
+}
+
+#main-header {
+	padding-top: 20px;
+	background: #333;
+}
+
+#header-row {
+	margin-bottom: 20px;
+}
+
+#site-title h2 {
+	font-size: 3.25rem;
+	margin-top: 0px;
+	color: #fff;
+	display: inline;
+}
+
+span#site-description {
+	color: #fff;
+	font-family: "Open Sans", Arial, Tahoma;
+}
+
+.title-area img {
+	max-height: 45px;
+	margin: 0px 5px;
+	padding: 5px;
+}
+
+#header-row .search-form {
+	margin-top: 20px;
+}
+
+/*--------------------------------------------------------------
+Archives
+--------------------------------------------------------------*/
+.column-post-title {
+	word-wrap: break-word;
+}
+
+.blog-layout-item {
+	display: table;
+	list-style-type: none;
+	padding-right: 10px;
+}
+
+.codon-thumbnail {
+
+}
+
+.codon-excerpt{
+	word-wrap: break-word;
+	text-align: justify;
+}
+
+.no-column-posts .codon-excerpt {
+	text-align: inherit;
+}
+
+.archive-meta {
+	font-size: 0.8rem;
+	margin: 20px 0px;
+}
+
+/*--------------------------------------------------------------
+Sidebars
+--------------------------------------------------------------*/
+
+li.codon-item {
+	list-style-type: none;
+}
+
+.sidebar-title-block {
+	margin-bottom: 10px;
+}
+
+.header-widget-wrapper {
+	color: #fff;
+}
+
+.header-widget-wrapper table caption {
+	color: #fff;
+}
+
+.header-widget-wrapper ul {
+	list-style-type: none;
+}
+
+.widget-wrapper {
+	word-wrap: break-word;
+}
+
+/*--------------------------------------------------------------
+Footer
+--------------------------------------------------------------*/
+.footer-widget ul {
+	list-style-type: none;
+	margin-left: 5px;
+}
+
+#footermenu {
+	margin: 20px;
+	text-align: center;
+}
+#footermenu ul {
+	margin-bottom: 20px;
+}
+#footermenu ul.sub-menu {
+	display: none;
+}
+#footermenu ul.children {
+	display: none;
+}
+#footermenu li {
+	display: inline-block;
+	padding: 5px;
+	font-size: 0.9rem;
+}
+#footermenu li a {
+	color: #fff;
+}
+.bottom-panel {
+	background-color: #333;
+	width: auto;
+}
+.footer-widget-wrap {
+	width: 100%;
+	background-color: #333;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.footer-widget a {
+	color: #fff;
+	}
+.footer-widget {
+	color: #fff;
+	word-wrap: break-word;
+	}
+.footer-title-block {
+	font-size: 1.7rem;
+	color: #fff;
+}
+
+#site-info {
+	color: #fff;
+}
+
+#main-footer {
+	text-align: center;
+	color: #fff;
+}
+
+#main-footer a {
+	color: #fff;
+}
+
+#top-return {
+	display: block;
+	text-align: center;
+	color: #fff;
+	margin: 10px;
+}
+
+ul.social-links {
+	list-style-type: none;
+	margin: 5px;
+}
+
+ul.social-links li {
+	margin: 10px;
+	font-size: 1.25rem;
+	display: inline-block;
+}
+
+
+/*--------------------------------------------------------------
+Foundation Tweaks
+--------------------------------------------------------------*/
+
+.top-bar-section ul li > a {
+	font-family: 'Open Sans', Tahoma, Arial;
+	font-size: 0.9rem;
+	font-weight: 600;
+}
+
+.top-bar .name h3 {
+	line-height: 45px;
+	font-size: 1rem;
+	margin: 0px 5px;
+	color: #fff;
+}
+
+.button {
+	font-family: 'Open Sans', Tahoma, Arial;
+	font-weight: 600;
+}
+
+ul {
+	margin-left: 5px;
+	list-style-position: inside;
+}
+
+small {
+	font-size: 80%;
+}
+
+h1 {
+	font-size: 2.5rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+h3 {
+	font-size: 1.75rem;
+}
+
+h4 {
+	font-size: 1.5rem;
+}
+
+h5 {
+	font-size: 1.3rem;
+}
+
+h6 {
+	font-size: 1rem;
+}
+
+/*--------------------------------------------------------------
+Re-usable Classes
+--------------------------------------------------------------*/
+
+.no-padding {
+	padding: 0;
+}
+
+.no-margin {
+	margin: 0;
+}
+
+/*--------------------------------------------------------------
+Media Queries/Mobile Tweaks
+--------------------------------------------------------------*/
+
+
+@media screen and (max-width: 1000px) {
+	#site-title h2 {
+		font-size: 3rem;
+	}
+
+	h5#site-description{
+		font-size: 1.2rem;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	#site-title h2 {
+		font-size: 2rem;
+	}
+	h5#site-description{
+		font-size: 1rem;
+		}
+	.menu-toggle,
+	.main-navigation.toggled .nav-menu {
+		display: block;
+	}
+	li.current_page_item {
+		border-bottom: none;
+	}
+	.main-navigation li:first-child {
+		margin-left: 0px;
+	}
+
+	.sub-menu li:first-child {
+		margin-left: 10px;
+	}
+	.main-navigation li {
+		text-align: center;
+		float: none;
+	}
+	
+	span.post-info {
+		display: block;
+	}
+
+	.main-navigation ul {
+		display: none;
+	}
+}

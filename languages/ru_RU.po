@@ -1,0 +1,542 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Genome\n"
+"Language: ru\n"
+
+#: /home/edward/Desktop/genome/content-page.php:44
+#: /home/edward/Desktop/genome/content-single.php:39
+#: /home/edward/Desktop/genome/image.php:58
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: /home/edward/Desktop/genome/content-page.php:51
+#: /home/edward/Desktop/genome/image.php:32
+#: /home/edward/Desktop/genome/image.php:64
+#: /home/edward/Desktop/genome/inc/template-tags.php:423
+#: /home/edward/Desktop/genome/inc/extras.php:123
+msgid "Edit"
+msgstr "Редактировать"
+
+#: /home/edward/Desktop/genome/content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: /home/edward/Desktop/genome/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свой первый пост? <a href=\"%1$s\"> Начните здесь </a>."
+
+#: /home/edward/Desktop/genome/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не соответствуют условия поиска. Пожалуйста, попробуйте еще раз с некоторыми другие ключевые слова."
+
+#: /home/edward/Desktop/genome/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы можем & Rsquo; т найти то, что вы и Rsquo; что вы ищете. Возможно, поиск может помочь."
+
+#: /home/edward/Desktop/genome/header.php:98
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: /home/edward/Desktop/genome/header.php:103
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: /home/edward/Desktop/genome/search.php:16
+msgid "Search Results for: "
+msgstr "Результаты поиска для:"
+
+#: /home/edward/Desktop/genome/search.php:25
+msgid "No results found for: "
+msgstr "Нет результатов для:"
+
+#: /home/edward/Desktop/genome/searchform.php:14
+msgid "Search"
+msgstr "Поиск"
+
+#: /home/edward/Desktop/genome/functions.php:45
+msgid "Top Menu"
+msgstr "Главное меню"
+
+#: /home/edward/Desktop/genome/functions.php:47
+#: /home/edward/Desktop/genome/inc/customizer.php:449
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: /home/edward/Desktop/genome/functions.php:95
+msgid "Header Widget"
+msgstr "Заголовок Виджет"
+
+#: /home/edward/Desktop/genome/functions.php:97
+msgid "Widgets in this area will be shown on the right side of the header (Traditional header-style only)."
+msgstr "Виджеты в этой области будет показано на правой стороне заголовка (традиционный только заголовок стиле)."
+
+#: /home/edward/Desktop/genome/functions.php:105
+msgid "Page Sidebar"
+msgstr "Page Sidebar"
+
+#: /home/edward/Desktop/genome/functions.php:107
+msgid "Widgets in this area will be shown on pages."
+msgstr "Виджеты в этой области будет показано на страницах."
+
+#: /home/edward/Desktop/genome/functions.php:116
+msgid "Post Sidebar"
+msgstr "Сообщение Sidebar"
+
+#: /home/edward/Desktop/genome/functions.php:118
+msgid "Widgets in this area will be shown on posts and archives."
+msgstr "Виджеты в этой области будет показано на должности и архивов."
+
+#: /home/edward/Desktop/genome/functions.php:128
+#: /home/edward/Desktop/genome/inc/customizer.php:321
+msgid "Archive Sidebar"
+msgstr "Архив Sidebar"
+
+#: /home/edward/Desktop/genome/functions.php:130
+msgid "Widgets in this area will be shown on archive pages."
+msgstr "Виджеты в этой области будет показано на страницах архива."
+
+#: /home/edward/Desktop/genome/functions.php:138
+msgid "Home Sidebar"
+msgstr "Главная Sidebar"
+
+#: /home/edward/Desktop/genome/functions.php:140
+msgid "Widgets in this area will be shown on the homepage."
+msgstr "Виджеты в этой области будет показано на странице."
+
+#: /home/edward/Desktop/genome/functions.php:147
+msgid "Below Posts"
+msgstr "Ниже сообщений"
+
+#: /home/edward/Desktop/genome/functions.php:149
+msgid "Widgets in this area will be shown beneath the blog post type. Use this for sharing, related articles and more."
+msgstr "Виджеты в этой области будет показано ниже типа сообщения в блоге. Используйте это для совместного использования, связанные статьи и многое другое."
+
+#: /home/edward/Desktop/genome/functions.php:159
+msgid "Footer Widget 1"
+msgstr "Footer Виджет 1"
+
+#: /home/edward/Desktop/genome/functions.php:161
+msgid "Widgets in this area will show up in the leftmost footer column."
+msgstr "Виджеты в этой области будет отображаться в левом столбце колонтитул."
+
+#: /home/edward/Desktop/genome/functions.php:168
+msgid "Footer Widget 2"
+msgstr "Footer Виджет 2"
+
+#: /home/edward/Desktop/genome/functions.php:170
+msgid "Widgets in this area will show up in the middle footer column."
+msgstr "Виджеты в этой области будет отображаться в столбце среднего колонтитула."
+
+#: /home/edward/Desktop/genome/functions.php:177
+msgid "Footer Widget 3"
+msgstr "Footer Виджет 3"
+
+#: /home/edward/Desktop/genome/functions.php:179
+msgid "Widgets in this area will show up in the right footer column."
+msgstr "Виджеты в этой области будет отображаться в правой колонке колонтитула."
+
+#: /home/edward/Desktop/genome/functions.php:247
+msgid "To view this protected post, enter the password below."
+msgstr "Для просмотра этого запись защищена, введите ниже пароль."
+
+#: /home/edward/Desktop/genome/functions.php:267
+msgid "Extras"
+msgstr "Дополнительно"
+
+#: /home/edward/Desktop/genome/functions.php:279
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: /home/edward/Desktop/genome/functions.php:286
+msgid "Featured Video Embed Code"
+msgstr "Лучшее видео Код для вставки"
+
+#: /home/edward/Desktop/genome/image.php:22
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Опубликованные <SPAN класс = \"начального Дата\"> <класс Time = \"начального Дата\" DateTime = \"% 1 $ S\">% 2 $ S </ время> </ SPAN> в <HREF = \"% 3 $ с \">% 4 $ S & раз; % 5 $ S </a> в <a href=\"%6$s\" rel=\"gallery\">% 7 $ S </a>"
+
+#: /home/edward/Desktop/genome/image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<SPAN класс = \"Мета-навигации\"> & LARR; </ SPAN> Предыдущая"
+
+#: /home/edward/Desktop/genome/image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующая <SPAN класс = \"Мета-навигации\"> & rarr; </ SPAN>"
+
+#: /home/edward/Desktop/genome/comments.php:32
+msgid "&larr; Older Comments"
+msgstr "И LARR; Старые Комментарии"
+
+#: /home/edward/Desktop/genome/comments.php:33
+msgid "Newer Comments &rarr;"
+msgstr "Новее Комментарии и rarr;"
+
+#: /home/edward/Desktop/genome/sidebar-home.php:14
+#: /home/edward/Desktop/genome/sidebar-posts.php:14
+#: /home/edward/Desktop/genome/sidebar.php:14
+msgid "Archives"
+msgstr "Архив"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:24
+msgid "Post navigation"
+msgstr "Сообщение навигации"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:46
+msgid "Author: "
+msgstr "Автор:"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:303
+msgid "Daily Archives: "
+msgstr "Ежедневные Архивы:"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:308
+msgid "Monthly Archives: "
+msgstr "Архивы по месяцам:"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:313
+msgid "Yearly Archives: "
+msgstr "Ежегодно Архивы:"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:318
+msgid "<i class=\"fa fa-asterisk\"></i> Asides"
+msgstr "<Я класс = \"FA FA-звездочка\"> </ I> Резервы"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:321
+msgid "<i class=\"fa fa-picture-o\"></i> Galleries"
+msgstr "<Я класс = \"FA FA-картинка о\"> </ I> Галереи"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:324
+msgid "<i class=\"fa fa-picture-o\"></i> Images"
+msgstr "<I класса = \"FA FA-картинка о\"> </ I> Изображения"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:327
+msgid "<i class=\"fa fa-video-camera\"></i> Videos"
+msgstr "<I класса = \"FA FA-видео-камеры\"> </ I> Видео"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:330
+msgid "<i class=\"fa fa-quote-left\"></i> Quotes"
+msgstr "<I класса = \"FA FA-цитаты-влево\"> </ I> Цитаты"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:333
+msgid "<i class=\"fa fa-link\"></i> Links"
+msgstr "<Класс я = \"FA FA-ссылка\"> </ I> Ссылки"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:336
+msgid "<i class=\"fa fa-tasks\"></i> Statuses"
+msgstr "<Я класс = \"FA FA-задачи\"> </ I> Статусы"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:339
+msgid "<i class=\"fa fa-headphones\"></i> Audios"
+msgstr "<I класса = \"FA FA-наушники\"> </ I> Audios"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:342
+msgid "<i class=\"fa fa-comments-o\"></i> Chats"
+msgstr "<I класса = \"FA FA-комментарии-о\"> </ I> Чаты"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:345
+msgid "<i class=\"fa fa-folder-open\"></i> Archives"
+msgstr "<I класса = \"FA FA-папок открыть\"> </ I> Архив"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:355
+#: /home/edward/Desktop/genome/inc/template-tags.php:365
+#: /home/edward/Desktop/genome/inc/template-tags.php:384
+msgid "Home"
+msgstr "Домой"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:413
+msgid "%1$s"
+msgstr "% 1 $ S"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:419
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:419
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:419
+msgid "% Comments"
+msgstr "% Комментарии"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:519
+msgid "404 - Page Not Found"
+msgstr "404 - Страница не найдена"
+
+#: /home/edward/Desktop/genome/inc/template-tags.php:520
+msgid "Whoops. The page you were looking for has gone extinct. Maybe you can find what you were looking for below."
+msgstr "К сожалению. Страница, которую вы ищете, вымерли. Может быть, вы можете найти то, что вы искали ниже."
+
+#: /home/edward/Desktop/genome/inc/extras.php:63
+msgid "Page %s"
+msgstr "Страница% с"
+
+#: /home/edward/Desktop/genome/inc/extras.php:100
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: /home/edward/Desktop/genome/inc/extras.php:112
+msgid "Post author"
+msgstr "Сообщение автор"
+
+#: /home/edward/Desktop/genome/inc/extras.php:115
+msgid "%1$s at %2$s"
+msgstr "% 1 $ S в% 2 $ S"
+
+#: /home/edward/Desktop/genome/inc/extras.php:126
+msgid "Reply"
+msgstr "Ответить"
+
+#: /home/edward/Desktop/genome/inc/extras.php:174
+msgid "Custom Styles"
+msgstr "Стили"
+
+#: /home/edward/Desktop/genome/inc/extras.php:177
+msgid "Theme Button"
+msgstr "Тема Кнопка"
+
+#: /home/edward/Desktop/genome/inc/extras.php:182
+msgid "Highlight"
+msgstr "Основной момент"
+
+#: /home/edward/Desktop/genome/inc/index-nav.php:11
+msgid "Load More"
+msgstr "Загрузить еще"
+
+#: /home/edward/Desktop/genome/inc/index-nav.php:14
+msgid "Posts navigation"
+msgstr "Сообщений навигации"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:20
+msgid "Header Options"
+msgstr "Опции заголовка"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:22
+msgid "Select your header options."
+msgstr "Выберите ваши опции заголовков."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:27
+msgid "Display Options"
+msgstr "Опции просмотра"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:29
+msgid "Select your display options."
+msgstr "Выберите настройки дисплея."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:34
+msgid "Single Content"
+msgstr "Одноместный Содержимое"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:36
+msgid "Select options for single-content templates."
+msgstr "Выберите параметры для шаблонов с одним контента."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:41
+msgid "Archive Content"
+msgstr "Архив публикаций"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:43
+msgid "Select options for archive-content templates."
+msgstr "Выберите параметры для шаблонов Архив-контента."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:48
+msgid "Footer Options"
+msgstr "Footer параметры"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:50
+msgid "Select options for the footer."
+msgstr "Выберите опции для нижнего колонтитула."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:64
+msgid "Header Style"
+msgstr "Стиль заголовка"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:65
+msgid "After saving the header style, refresh the customizer page to see the header-specific logo option."
+msgstr "После сохранения стиль заголовка, обновите страницу настройщик, чтобы увидеть логотип опцию заголовка от конкретных условий."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:79
+msgid "Site Description"
+msgstr "Описание сайта"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:80
+msgid "Enable or disable the header site description."
+msgstr "Включить или отключить описание сайта заголовок."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:98
+msgid "Header Logo"
+msgstr "Заголовок Logo"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:108
+msgid "Header Widget Area"
+msgstr "Заголовок Widget Площадь"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:127
+msgid "Topbar Logo"
+msgstr "Topbar Logo"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:128
+msgid "<em>Max height: 45px</em>"
+msgstr "<EM> Максимальная высота: 45px </ EM>"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:145
+msgid "Infinite Scroll"
+msgstr "Бесконечные прокрутки"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:161
+msgid "Post Default Image"
+msgstr "Сообщение Default Image"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:162
+msgid "Used if a featured image is not present"
+msgstr "Используется, если признакам изображение нет"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:196
+#: /home/edward/Desktop/genome/inc/customizer.php:369
+msgid "Post Meta"
+msgstr "Сообщение Meta"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:210
+msgid "Post Navigation"
+msgstr "Сообщение навигации"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:224
+msgid "Authorbox"
+msgstr "Authorbox"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:238
+msgid "Post Breadcrumbs"
+msgstr "Подать Навигационные"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:252
+msgid "Page Breadcrumbs"
+msgstr "Page Навигационные"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:266
+msgid "Post Extras"
+msgstr "Операции над сообщением"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:267
+msgid "Enable or disable the post extras box (subtitle and featured video)."
+msgstr "Включение или выключение окна над сообщением (субтитры и показал видео)."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:281
+msgid "Post Style"
+msgstr "Сообщение Стиль"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:282
+msgid "Choose whether or not to display the sidebar on single posts."
+msgstr "Выберите, следует ли отображать врезку на отдельных постах."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:305
+msgid "Post Display"
+msgstr "Сообщение дисплея"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:306
+msgid "If using the three-column layout, make sure your post per page value in Settings->Reading is divisible by 3 for best results."
+msgstr "При использовании макета из трех столбцов, убедитесь, что ваш пост в стоимости страницы в Настройки-> Чтение делится на 3 для получения наилучших результатов."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:322
+msgid "Turn the sidebar on or off."
+msgstr "Поверните боковую панель или нет."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:336
+msgid "Post Thumbnails"
+msgstr "Подать Миниатюры"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:337
+msgid "Choose your archive thumbnail size."
+msgstr "Выберите размер архива миниатюр."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:353
+msgid "Post Thumbnail Alignment"
+msgstr "Сообщение эскизов Выравнивание"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:354
+msgid "Choose your archive thumbnail alignment."
+msgstr "Выберите выравнивание архив иконок."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:383
+msgid "Post Excerpts"
+msgstr "Сообщение Выдержки"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:384
+msgid "Showing the full content works best with the blog-style archive layout."
+msgstr "Показаны полное содержание работает лучше всего с расположением архив Дневник стиле."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:418
+msgid "Footer Widgets"
+msgstr "Footer Виджеты"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:419
+msgid "Enable or disable the footer widget areas."
+msgstr "Включить или отключить области Виджет колонтитул."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:434
+msgid "Footer Credit Link"
+msgstr "Footer Кредитная Ссылка"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:464
+msgid "Return to Top Link"
+msgstr "Вернуться к началу Link"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:479
+msgid "Social Block"
+msgstr "Социальный блок"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:480
+msgid "Once enabled, please refresh the customizer to enable the social link fields."
+msgstr "После активации, пожалуйста, обновите настройщик, чтобы позволить поля социальная связь."
+
+#: /home/edward/Desktop/genome/inc/customizer.php:498
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:509
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:520
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:531
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:543
+msgid "YouTube URL"
+msgstr "URL YouTube"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:555
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:567
+msgid "Yelp URL"
+msgstr "Yelp URL"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:579
+msgid "Tumblr URL"
+msgstr "Tumblr URL"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:591
+msgid "Reddit URL"
+msgstr "Reddit URL"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:603
+msgid "Github URL"
+msgstr "Github URL"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:615
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: /home/edward/Desktop/genome/inc/customizer.php:627
+msgid "RSS URL"
+msgstr "RSS URL"
+
